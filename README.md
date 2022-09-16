@@ -16,5 +16,18 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-<figure><embed src="https://wakatime.com/share/@040f0722-c3c2-4d4b-aa6a-6ea248636665/1e955594-da5f-488c-8450-55930b2c9057.svg"></embed></figure>
+
+```text
+From: 11 May 2022 - To: 16 September 2022
+
+Total Time: 193 hrs 28 mins
+
+PHP              115 hrs 9 mins  >>>>>>>>>>>>>>>----------   59.52 %
+Java             33 hrs 37 mins  >>>>---------------------   17.38 %
+JavaScript       18 hrs 49 mins  >>-----------------------   09.73 %
+HTML             11 hrs 15 mins  >------------------------   05.82 %
+LESS             4 hrs 36 mins   >------------------------   02.39 %
+CSS              3 hrs 28 mins   -------------------------   01.79 %
+```
+
 <!--END_SECTION:waka-->
