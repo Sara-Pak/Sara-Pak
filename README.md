@@ -18,16 +18,16 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 18 August 2022 - To: 17 September 2022
+From: 19 August 2022 - To: 18 September 2022
 
-Total Time: 31 hrs 26 mins
+Total Time: 30 hrs 53 mins
 
-PHP              11 hrs 6 mins   ♥♥♥♥♥♥♥♥♥~~~~~~~~~~~~~~~~   35.31 %
-HTML             10 hrs 35 mins  ♥♥♥♥♥♥♥♥~~~~~~~~~~~~~~~~~   33.71 %
-Java             4 hrs 51 mins   ♥♥♥♥~~~~~~~~~~~~~~~~~~~~~   15.44 %
-JavaScript       2 hrs 35 mins   ♥♥~~~~~~~~~~~~~~~~~~~~~~~   08.23 %
-XML              56 mins         ♥~~~~~~~~~~~~~~~~~~~~~~~~   03.02 %
-CSS              51 mins         ♥~~~~~~~~~~~~~~~~~~~~~~~~   02.75 %
+HTML             10 hrs 35 mins  ♥♥♥♥♥♥♥♥♥~~~~~~~~~~~~~~~~   34.31 %
+PHP              10 hrs 32 mins  ♥♥♥♥♥♥♥♥♥~~~~~~~~~~~~~~~~   34.15 %
+Java             4 hrs 51 mins   ♥♥♥♥~~~~~~~~~~~~~~~~~~~~~   15.71 %
+JavaScript       2 hrs 35 mins   ♥♥~~~~~~~~~~~~~~~~~~~~~~~   08.38 %
+XML              56 mins         ♥~~~~~~~~~~~~~~~~~~~~~~~~   03.07 %
+CSS              51 mins         ♥~~~~~~~~~~~~~~~~~~~~~~~~   02.80 %
 ```
 
 <!--END_SECTION:waka-->
