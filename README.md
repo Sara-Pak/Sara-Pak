@@ -18,13 +18,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 02 October 2022 - To: 01 November 2022
+From: 03 October 2022 - To: 02 November 2022
 
-Total Time: 6 hrs 29 mins
+Total Time: 6 hrs 19 mins
 
-Java             6 hrs 16 mins   ♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥~   96.47 %
-XML              10 mins         ♥~~~~~~~~~~~~~~~~~~~~~~~~   02.74 %
-GitIgnore file   3 mins          ~~~~~~~~~~~~~~~~~~~~~~~~~   00.79 %
+Java             6 hrs 6 mins    ♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥~   96.73 %
+XML              10 mins         ♥~~~~~~~~~~~~~~~~~~~~~~~~   02.82 %
+GitIgnore file   1 min           ~~~~~~~~~~~~~~~~~~~~~~~~~   00.45 %
 ```
 
 <!--END_SECTION:waka-->
