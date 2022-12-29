@@ -18,12 +18,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 26 November 2022 - To: 26 December 2022
-
-Total Time: 2 hrs 11 mins
-
-Python           2 hrs 10 mins   ♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥   99.47 %
-GitIgnore file   0 secs          ~~~~~~~~~~~~~~~~~~~~~~~~~   00.53 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
