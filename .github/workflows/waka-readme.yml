@@ -11,7 +11,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: Sara-Pak/waka-readme@0.4.0
+      - uses: NickRTR/WakaTime-Readme@v0.4.0
+
         with:
           REPOSITORY: Sara-Pak/Sara-Pak
           WAKATIME_API_KEY: ${{ secrets.waka_76302c8c-48a3-4e60-9ac2-ddd6b203daea }}
