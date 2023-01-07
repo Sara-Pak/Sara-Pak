@@ -6,13 +6,11 @@ on:
     - cron: '0 0 * * *' # runs at every 12AM UTC
 
 jobs:
-  WakaTime-README:
+  UPDATE-README:
     name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
       - uses: athul/waka-readme@master
-
         with:
           REPOSITORY: Sara-Pak/Sara-Pak
           WAKATIME_API_KEY: ${{ secrets.waka_76302c8c-48a3-4e60-9ac2-ddd6b203daea }}
