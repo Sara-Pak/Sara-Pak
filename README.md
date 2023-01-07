@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 -->
 
-- 🔭 I’m currently working on getting certified in Google's IT Automation with Python and doing #100daysofcode 
+- 🔭 I’m currently working on getting certified in Google's IT Automation with Python and doing #100daysofcode in Python. 
 - 🌱 I’m currently learning Python...
 - 👯 I’m looking to collaborate on python projects; big or small.
 - 📫 How to reach me: email sbpak@pm.me
