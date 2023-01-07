@@ -13,6 +13,7 @@ jobs:
       - uses: Sara-Pak/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.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  }}
           SHOW_TITLE: true
           BLOCKS: ~♥
           TIME_RANGE: last_30_days
