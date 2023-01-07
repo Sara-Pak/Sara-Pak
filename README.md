@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on getting certified in Google's IT Automation with Python and doing #100daysofcode in Python. 
 - 🌱 I’m currently learning Python...
 - 👯 I’m looking to collaborate on python projects; big or small.
-- 📫 How to reach me: email sbpak@pm.me
+- 📫 How to reach me: @[YoofeeCodes](https://twitter.com/YoofeeCodes) on Twitter
 - ⚡ Fun fact: Trying out new cooking recipes, Anime, and singing Karaoke with friends.
 
 
