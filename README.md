@@ -19,7 +19,16 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 08 December 2022 - To: 07 January 2023
+
+Total Time: 8 hrs 57 mins
+
+Python           8 hrs 54 mins   ♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥   99.46 %
+Text             2 mins          ~~~~~~~~~~~~~~~~~~~~~~~~~   00.45 %
+AUTO_DETECTED    0 secs          ~~~~~~~~~~~~~~~~~~~~~~~~~   00.05 %
+XML              0 secs          ~~~~~~~~~~~~~~~~~~~~~~~~~   00.03 %
+GitIgnore file   0 secs          ~~~~~~~~~~~~~~~~~~~~~~~~~   00.00 %
+IDEA_MODULE      0 secs          ~~~~~~~~~~~~~~~~~~~~~~~~~   00.00 %
 ```
 
 <!--END_SECTION:waka-->
