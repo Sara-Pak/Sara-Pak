@@ -12,7 +12,7 @@ jobs:
     steps:
     - uses: athul/waka-readme@v0.1.7
       with:
-          REPOSITORY: Sara-Pak/Sara-Pak
+          #REPOSITORY: Sara-Pak/Sara-Pak
           WAKATIME_API_KEY: ${{ secrets.waka_76302c8c-48a3-4e60-9ac2-ddd6b203daea }}
           GH_TOKEN: ${{ secrets.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  }}
           SHOW_TITLE: true
