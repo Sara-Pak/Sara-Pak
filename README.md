@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 January 2023 - To: 05 February 2023
+From: 07 January 2023 - To: 06 February 2023
 
-Total Time: 1 hr 20 mins
+Total Time: 1 hr 1 min
 
-Python   1 hr 20 mins    ♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥   100.00 %
+Python   1 hr 1 min      ♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥   100.00 %
 ```
 
 <!--END_SECTION:waka-->
