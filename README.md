@@ -20,12 +20,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 28 February 2023 - To: 30 March 2023
+From: 01 March 2023 - To: 31 March 2023
 
-Total Time: 4 hrs 51 mins
+Total Time: 4 hrs 42 mins
 
-Python   3 hrs 49 mins   ♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥~~~~~   78.62 %
-HTML     1 hr 2 mins     ♥♥♥♥♥~~~~~~~~~~~~~~~~~~~~   21.38 %
+Python   3 hrs 40 mins   ♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥~~~~~~   77.94 %
+HTML     1 hr 2 mins     ♥♥♥♥♥♥~~~~~~~~~~~~~~~~~~~   22.06 %
 ```
 
 <!--END_SECTION:waka-->
