@@ -9,7 +9,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 
 
-- 🔭 I’m currently working on getting certified in Google's IT Automation with Python and doing #100daysofcode in Python. 
+- 💻 I'm currently working #30NitesOfCode on CodeDex:
+  [Check out my progress!](https://www.codedex.io/@Yoofee/30-nites-of-code)  
+  ![@Yoofee #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Yoofee)
 -->
 - 🌱 I’m currently learning Python and SQL...
 - 👯 I’m looking to collaborate on python and/or data engineering projects
