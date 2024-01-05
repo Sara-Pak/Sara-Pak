@@ -8,13 +8,12 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
 
-
-- 💻 I'm currently working #30NitesOfCode on CodeDex:
+-->
+- 💻 I'm currently doing #30NitesOfCode on CodeDex:
   [Check out my progress!](https://www.codedex.io/@Yoofee/30-nites-of-code)  
   ![@Yoofee #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Yoofee)
--->
-- 🌱 I’m currently learning Python and SQL...
-- 👯 I’m looking to collaborate on python and/or data engineering projects
+- 🌱 I’m currently interested in data engineering.
+- 👯 I’m looking to collaborate on python and/or SQL projects
 - 📫 How to reach me: @[YoofeeCodes](https://twitter.com/YoofeeCodes) on Twitter
 - ⚡ Fun fact: Trying out new cooking recipes, Anime, and singing Karaoke with friends.
 
